@@ -1,4 +1,4 @@
-<h1 align="center">🕊️ Pamela Fortes</h1>
+<h1 align="center">🦋 Olá! Eu sou Pamela Grandizolli</h1>
 
 <p align="center">
   <em>"O aprendizado é um caminho longo... mas cada passo tem sua beleza."</em>
@@ -8,7 +8,7 @@
 
 ### 🌙 Sobre mim  
 
-Sou uma exploradora tranquila do mundo da tecnologia — estudando **Frontend** (e um pouco de **Backend**) com curiosidade e paciência.  
+Sou uma exploradora do mundo da tecnologia — estudando **Frontend** (e um pouco de **Backend**) com curiosidade e paciência.  
 Atualmente, busco unir **design, lógica e sensibilidade** em cada projeto que crio.  
 
 ✨ **Aualmente estudando:** PHP · JAVA · JavaScript · React 
@@ -40,19 +40,12 @@ Atualmente, busco unir **design, lógica e sensibilidade** em cada projeto que c
   <a href="https://www.linkedin.com/in/pamela-grandizolli" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-7ea0b7?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:pamelaefg@hotmail.com">
-    <img src="https://img.shields.io/badge/-Email-b7cde0?style=for-the-badge&logo=gmail&logoColor=4c5b66"/>
-  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://64.media.tumblr.com/93dd41fcb9f0dff2f24b8a6b1443f82b/1b191d6372dbb4c1-3b/s1280x1920/2edb35e73d83e303ab97f857e667b01c9eebde62.gif" width="400" alt="Frieren vibes"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWFpZWM5MGs2MjduYzN2djV0dWxzYzZkMGY0MHh2MG80emoxeWd5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XTcvZWqATlWodje5qa/giphy.gif" width="400" alt="Frieren vibes"/>
 </p>
 
----
-
 <p align="center"><em>“Mesmo que o tempo passe devagar, continuar é o que importa.” 🕊️</em></p>
-
-<p align="center">Feito com calma e café por <strong>Pamela Fortes</strong></p>

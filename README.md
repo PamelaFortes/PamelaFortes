@@ -3,7 +3,7 @@
   <a href="https://www.linkedin.com/in/pamela-grandizolli" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-7ea0b7?style=for-the-badge&logo=linkedin&logoColor=pink"/>
   </a>
-  <a href="(https://www.instagram.com/htts_lalita/)" target="_blank">
+  <a href="https://www.instagram.com/htts_lalita" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-7ea0b7?style=for-the-badge&logo=instagram&logoColor=pink"/>
   </a>
 </p>

@@ -19,7 +19,7 @@
 Sou uma exploradora do mundo da tecnologia — estudando **Frontend** (e um pouco de **Backend**) com curiosidade e paciência.  
 Atualmente, busco unir **design, lógica e sensibilidade** em cada projeto que crio.  
 
-✨ **Atualmente estudando:** PHP · JAVA · JavaScript · React 
+✨ **Atualmente estudando:** PHP · Java · JavaScript · React<br>
 🌸 **Interesses:** UI/UX · estética · experiências simples e significativas  
 🌧️ **Motivação:** crescer um pouco mais a cada linha de código  
 

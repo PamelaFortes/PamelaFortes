@@ -1,4 +1,12 @@
 <h1 align="center">🦋 Olá! Eu sou Pamela Grandizolli</h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/pamela-grandizolli" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-7ea0b7?style=for-the-badge&logo=linkedin&logoColor=pink"/>
+  </a>
+  <a href="(https://www.instagram.com/htts_lalita/)" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-7ea0b7?style=for-the-badge&logo=instagram&logoColor=pink"/>
+  </a>
+</p>
 
 <p align="center">
   <em>"O aprendizado é um caminho longo... mas cada passo tem sua beleza."</em>
@@ -20,26 +28,11 @@ Atualmente, busco unir **design, lógica e sensibilidade** em cada projeto que c
 ### 🌿 Tecnologias  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,git,github,vscode,xampp&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode,xampp&theme=dark" />
 </p>
-
----
-
-### 🩵 Estatísticas  
-
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PamelaFortes&show_icons=true&theme=calm_pastel&hide_border=true&bg_color=ffffff&title_color=7ea0b7&text_color=4c5b66&icon_color=7ea0b7" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PamelaFortes&layout=compact&theme=calm_pastel&hide_border=true&bg_color=ffffff&title_color=7ea0b7&text_color=4c5b66" />
-</p>
-
----
-
-### 🕯️ Onde me encontrar  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/pamela-grandizolli" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-7ea0b7?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PamelaFortes&show_icons=true&theme=panda" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PamelaFortes&theme=panda&show_icons=true&hide_border=true" />
 </p>
 
 ---
